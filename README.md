@@ -93,3 +93,33 @@ class RishabTripathi:
 Open to internships, collabs and conversations about AI. Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/) or at **you@example.com**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:7c3aed&height=60&section=footer" />
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # lets you run it manually
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
