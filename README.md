@@ -56,11 +56,4 @@ class RishabTripathi:
 Open to internships, collaborations and conversations about AI. Reach me on [LinkedIn](https://www.linkedin.com/in/rishab-18-/?isSelfProfile=true) or at **rishabtripathi765@gmail.com**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=100&section=footer" alt="footer" />
-<!-- Snake animation: needs the one-time workflow setup described at the bottom of this file -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-</picture>
-
 
