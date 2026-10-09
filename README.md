@@ -8,12 +8,6 @@
 
 <br/>
 
-<!-- Snake animation: needs the one-time workflow setup described at the bottom of this file -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-</picture>
 
 <br/><br/>
 
@@ -56,19 +50,19 @@ class RishabTripathi:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1" alt="Top languages" />
 </p>
 
-## Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project One](https://github.com/USERNAME/project-one) | One-line description | Python |
-| [Project Two](https://github.com/USERNAME/project-two) | One-line description | JavaScript |
-| [Project Three](https://github.com/USERNAME/project-three) | One-line description | C++ |
 
 ## Contact
 
-Open to internships, collaborations and conversations about AI. Reach me on [LinkedIn](https://www.linkedin.com/in/LINKEDIN_ID/) or at **EMAIL@example.com**.
+Open to internships, collaborations and conversations about AI. Reach me on [LinkedIn](https://www.linkedin.com/in/LINKEDIN_ID/) or at **rishabtripathi765@gmail.com**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=100&section=footer" alt="footer" />
+<!-- Snake animation: needs the one-time workflow setup described at the bottom of this file -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+</picture>
+
 
 <!--
 ==========================================================================
