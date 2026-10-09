@@ -1,27 +1,31 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,100:06b6d4&height=220&section=header&text=Rishab%20Tripathi&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=Future%20AI%20Engineer%20%C2%B7%20Building%20LLMs%20%26%20AI%20Applications&descSize=18&descAlignY=64&animation=fadeIn" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Rishab+Tripathi+%F0%9F%91%8B;Building+LLMs+%26+AI+Applications;Future+AI+Engineer;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+C%2B%2B" alt="typing" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=230&section=header&text=Rishab%20Tripathi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Future%20AI%20Engineer%20%7C%20Building%20LLMs%20%26%20AI%20Applications&descSize=20&descAlignY=60" alt="Rishab Tripathi" />
 
-<!-- ============ SNAKE (starts right under the name) ============ -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  </picture>
-</p>
+<a href="https://github.com/USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I%27m+Rishab+Tripathi;Building+LLMs+%26+AI+Applications;Future+AI+Engineer;HTML+%7C+CSS+%7C+JavaScript+%7C+Python+%7C+C%2B%2B" alt="Typing animation" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Say_hi-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-</p>
+<br/>
+
+<!-- Snake animation: needs the one-time workflow setup described at the bottom of this file -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+</picture>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/LINKEDIN_ID/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say_hi-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+
+</div>
 
 ---
 
-### `~/about`
+## About Me
 
 ```python
 class RishabTripathi:
@@ -32,73 +36,59 @@ class RishabTripathi:
     motto     = "Build first, polish later."
 ```
 
----
+## What I'm Doing Now
 
-### `~/now`
+- 🤖 **Building:** LLM-powered apps and AI agents
+- 📚 **Learning:** Prompt engineering, RAG, fine-tuning and system design
+- 🧩 **Practicing:** Data structures and algorithms in Python and C++
+- 🎯 **Aiming for:** AI Engineer roles
 
-| | |
-|:--|:--|
-| 🤖 **Building** | LLM-powered apps and AI agents |
-| 📚 **Learning** | Prompt engineering, RAG, fine-tuning, system design |
-| 🧩 **Practicing** | DSA in Python and C++ |
-| 🎯 **Aiming for** | AI Engineer roles |
-
----
-
-### `~/stack`
+## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,git,github,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,git,github,vscode&theme=dark" alt="Tech stack" />
 </p>
 
----
-
-### `~/stats`
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1" alt="Top languages" />
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=22d3ee&area=true&area_color=7c3aed&hide_border=true" />
+## Projects
 
----
+| Project | Description | Tech |
+|---|---|---|
+| [Project One](https://github.com/USERNAME/project-one) | One-line description | Python |
+| [Project Two](https://github.com/USERNAME/project-two) | One-line description | JavaScript |
+| [Project Three](https://github.com/USERNAME/project-three) | One-line description | C++ |
 
-### `~/projects`
+## Contact
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/YOUR_USERNAME/project-one">Project One</a></b><br/>
-      <sub>One-line description of what it does.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/YOUR_USERNAME/project-two">Project Two</a></b><br/>
-      <sub>One-line description of what it does.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/YOUR_USERNAME/project-three">Project Three</a></b><br/>
-      <sub>One-line description of what it does.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-    </td>
-  </tr>
-</table>
+Open to internships, collaborations and conversations about AI. Reach me on [LinkedIn](https://www.linkedin.com/in/LINKEDIN_ID/) or at **EMAIL@example.com**.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=100&section=footer" alt="footer" />
 
-### `~/contact`
+<!--
+==========================================================================
+ONE-TIME SNAKE SETUP (this comment is invisible on your profile)
 
-Open to internships, collabs and conversations about AI. Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/) or at **you@example.com**.
+1. In this same repo, create a file at exactly this path:
+   .github/workflows/snake.yml
+2. Paste everything between the two lines below into that file.
+3. Repo Settings > Actions > General > Workflow permissions >
+   choose "Read and write permissions" and save.
+4. Go to the Actions tab > "Generate Snake Animation" > Run workflow.
+   Wait about a minute. The snake then appears on your profile.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:7c3aed&height=60&section=footer" />
+---------------------------- copy from here -----------------------------
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:          # lets you run it manually
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -123,3 +113,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---------------------------- copy to here -------------------------------
+==========================================================================
+-->
