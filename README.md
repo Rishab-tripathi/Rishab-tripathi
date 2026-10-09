@@ -1,6 +1,6 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=230&section=header&text=Rishab%20Tripathi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Future%20AI%20Engineer%20%7C%20Building%20LLMs%20%26%20AI%20Applications&descSize=20&descAlignY=60" alt="Rishab Tripathi" />
+
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rishab%20Tripathi&fontSize=56&fontColor=ffffff&fontAlignY=40" alt="Rishab Tripathi" />
 
 <a href="https://github.com/rishab-tripathi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I%27m+Rishab+Tripathi;Building+LLMs+%26+AI+Applications;Future+AI+Engineer;HTML+%7C+CSS+%7C+JavaScript+%7C+Python+%7C+C%2B%2B" alt="Typing animation" />
