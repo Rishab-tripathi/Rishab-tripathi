@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Building LLMs & AI Applications | Python • Machine Learning • Deep Learning
 
 
@@ -12,98 +12,104 @@ Building LLMs & AI Applications | Python • Machine Learning • Deep Learning
 ![](https://streak-stats.demolab.com/?user=Rishab-tripathi&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rishab-tripathi&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Rishab-tripathi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- ============ BANNER ============ -->
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:3b0764,100:2563eb&height=220&section=header&text=YOUR%20NAME&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20the%20making%20%C2%B7%20Your%20College%20%C2%B7%20Creator&descSize=20&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f766e,100:0e7490&height=200&section=header&text=hey%2C%20I'm%20YOUR%20NAME&fontSize=48&fontColor=ecfeff&fontAlignY=45&animation=fadeIn" />
 
-<!-- ============ TYPING LINE ============ -->
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-stack+%E2%80%94+Next.js+%C2%B7+React+Native;AI+%E2%80%94+Agents+%C2%B7+RAG+%C2%B7+Tool+Use;Building+in+public" alt="Typing SVG" />
-</a>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2DD4BF&width=620&height=40&lines=%24+whoami+%E2%86%92+student+%C3%97+builder+%C3%97+creator;%24+building+%E2%86%92+web+apps+%26+AI+agents;%24+learning+%E2%86%92+system+design+%26+DSA;%24+goal+%E2%86%92+ship+something+every+week" alt="typing" />
+</p>
 
-<br/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/linkedin-connect-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/youtube-watch-0f766e?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/email-contact-115e59?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=visitors&color=0e7490&style=for-the-badge" />
+</p>
 
-<!-- ============ BADGES ============ -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-31K_subscribers-8B5CF6?style=flat-square&logo=youtube&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Say_hi-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" />
+---
 
-</div>
+### `~/about`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============ THE SHORT VERSION ============ -->
-## ▍THE SHORT VERSION
-
-```python
-class YourName:
-    def __init__(self):
-        self.location   = "Your College, India"
-        self.role       = "AI / Full-Stack Developer"
-        self.side_quest = "YouTuber — 31,000+ subscribers"
-        self.rule       = "1 hr of tutorials -> 2 hrs of building."
-
-    def current_grind(self):
-        return {
-            "ai":  "Agents, tool use & RAG on the Claude API",
-            "dsa": "150+ LeetCode problems this summer",
-            "gym": "consistency over intensity",
-        }
+```ts
+const me = {
+  name: "YOUR NAME",
+  from: "India",
+  studying: "Your Degree @ Your College",
+  building: ["Full-stack web apps", "AI agents with the Claude API"],
+  practicing: "Data structures & algorithms, a little every day",
+  offline: ["gym", "music", "chai"],
+  motto: "Build first, polish later.",
+} as const;
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## ▍TECH STACK
+### `~/now`
 
-<div align="center">
+| | |
+|:--|:--|
+| 🔨 **Building** | Your current main project |
+| 📚 **Learning** | RAG pipelines, tool use, system design |
+| 🧩 **Solving** | LeetCode: 1 problem a day |
+| 🎥 **Creating** | Tutorials and dev vlogs on YouTube |
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-</div>
+### `~/stack`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,python,mongodb,postgres,firebase,git,github,vscode,figma&theme=dark&perline=8" />
+</p>
 
-## ▍GITHUB STATS
+---
 
-<div align="center">
+### `~/stats`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=22d3ee&text_color=cbd5e1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=cbd5e1" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=2dd4bf&line=0e7490&point=ecfeff&area=true&hide_border=true" />
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### `~/projects`
 
-## ▍FEATURED PROJECTS
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/YOUR_USERNAME/project-one">Project One</a></b><br/>
+      <sub>One-line description of what it does.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/YOUR_USERNAME/project-two">Project Two</a></b><br/>
+      <sub>One-line description of what it does.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/YOUR_USERNAME/project-three">Project Three</a></b><br/>
+      <sub>One-line description of what it does.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Project One**](https://github.com/YOUR_USERNAME/project-one) | One-line description | Next.js · MongoDB |
-| [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | One-line description | React Native · Firebase |
-| [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | One-line description | Python · Claude API |
+---
 
-<div align="center">
+### `~/contact`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:3b0764,100:4c1d95&height=100&section=footer" />
+Open to internships, collabs and good conversations about code. Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/) or at **you@example.com**.
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e7490,100:0f766e&height=60&section=footer" />
