@@ -32,11 +32,12 @@ class RishabTripathi:
 
 ## What I'm Doing Now
 
-- 🤖 **Building:** LLM-powered apps and AI agents
-- 📚 **Learning:** Prompt engineering, RAG, fine-tuning and system design
-- 🧩 **Practicing:** Data structures and algorithms in Python and C++
-- 🎯 **Aiming for:** AI Engineer roles
-
+-  **Building:** LLM-powered apps and AI agents
+-  **Learning:** Prompt engineering, RAG, fine-tuning and system design
+-  **Practicing:** Data structures and algorithms in Python and C++
+-  **Aiming for:** AI Engineer roles
+-  **Building>Learning**
+ 
 ## Tech Stack
 
 <p>
