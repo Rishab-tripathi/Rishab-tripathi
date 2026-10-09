@@ -57,3 +57,6 @@ Open to internships, collaborations and conversations about AI. Reach me on [Lin
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=100&section=footer" alt="footer" />
 
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
