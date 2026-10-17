@@ -13,7 +13,6 @@
 
 <a href="https://www.linkedin.com/in/rishab-18-/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rishabtripathi765@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=Rishab-tripathi&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 
 </div>
 
